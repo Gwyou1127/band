@@ -1,9 +1,0 @@
-[submodule "packages/backend"]
-	path = packages/backend
-	url = https://github.com/zioject/backend.git
-[submodule "packages/components"]
-	path = packages/components
-	url = https://github.com/zioject/components.git
-[submodule "packages/shared"]
-	path = packages/shared
-	url = https://github.com/zioject/shared.git
